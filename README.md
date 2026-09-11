@@ -72,13 +72,13 @@ Push button-https://diotlabs.daraghbyrne.me/docs/getting-inputs/images/button/im
 - USB cable-https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2019/11/PhotoGrid2-2.jpg
 Connecting wires/components as needed
 
-blob:https://web.whatsapp.com/8cb83fcc-f22b-4577-bc46-bdcb93977720
+[blob:https://web.whatsapp.com/8cb83fcc-f22b-4577-bc46-bdcb93977720](https://drive.google.com/file/d/1jrnMVaELCyo_U7shPKTPbtQr9e6vMCPb/view?usp=sharing)
 *The basic hardware setup was constructed using an Arduino Uno, 16x2 I2C LCD, push button, breadboard and jumper wires. The components were connected according to the required circuit.*
-
-blob:https://web.whatsapp.com/5d28a5a1-adeb-49b4-8b56-0f2e3ff35266
+[
+blob:https://web.whatsapp.com/5d28a5a1-adeb-49b4-8b56-0f2e3ff35266](https://drive.google.com/file/d/1sNUSRn1A9B5IOeFpr1FAFxiFA7L50BOG/view?usp=sharing)
 *After completing the connections, the Arduino was powered on and the LCD backlight was successfully turned on. This confirmed that the LCD was receiving power and the circuit connections were working.*
 
-blob:https://web.whatsapp.com/017209b8-6083-438f-96b7-429a775d84f5
+[blob:https://web.whatsapp.com/017209b8-6083-438f-96b7-429a775d84f5](https://drive.google.com/file/d/1TV-yV8sIKw-OzjXKJ8CixXyWCOR5RPld/view?usp=sharing)
 *The completed circuit was tested by starting the Dino game. The Dino and game elements are displayed on the LCD, and the push button is ready to control the game.*
 
 ### Project Demo
