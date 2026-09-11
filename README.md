@@ -83,7 +83,7 @@ blob:https://web.whatsapp.com/5d28a5a1-adeb-49b4-8b56-0f2e3ff35266](https://driv
 
 ### Project Demo
 # Video
-[[Add your demo video link here]](https://drive.google.com/file/d/12KK3J54fxHar0xZOqBbZlHARoGZiJosk/view?usp=sharing)
+[https://drive.google.com/file/d/12KK3J54fxHar0xZOqBbZlHARoGZiJosk/view?usp=sharing]
 *The demo video shows the Useless Dino Game in action. When the push button is pressed, the Dino moves backward instead of jumping, making the game intentionally useless.*
 
 
