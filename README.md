@@ -2,11 +2,10 @@
 
 
 
-# [Project Name] 🎯
-
+# Dino Struggle🦖
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: team xyz
 
 
 ### Team Members
@@ -14,13 +13,13 @@
 - Member 2: Misna Mahar -Korambayil Ahamed Haji Memorial Unity Women's College (Autonomous), Manjeri
 
 ### Project Description
-[2-3 lines about what your project does]
+Dino Suffering is a completely unnecessary Arduino game where a tiny Dino runs endlessly on an LCD while trying to avoid obstacles. The player presses a button, but nobody really knows why. 🦖
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+A Dino has been running for years without a job, salary, or destination. His only task is to keep running and avoid cactuses.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We created a button-controlled LCD game where the Dino can run, suffer, hit obstacles, and repeat the same meaningless journey forever. Problem solved. 😭💀
 
 ## Technical Details
 ### Technologies/Components Used
