@@ -86,8 +86,6 @@ blob:https://web.whatsapp.com/017209b8-6083-438f-96b7-429a775d84f5
 [[Add your demo video link here]](https://drive.google.com/file/d/12KK3J54fxHar0xZOqBbZlHARoGZiJosk/view?usp=sharing)
 *The demo video shows the Useless Dino Game in action. When the push button is pressed, the Dino moves backward instead of jumping, making the game intentionally useless.*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Naseeha Thasni: Arduino programming, game logic modification, LCD implementation and hardware integration.
