@@ -79,8 +79,14 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+Components:
+Arduino board-https://images.openai.com/static-rsc-4/Ma9Ru0qeFCuOzQ_hLyu8OgKCg4l43slUxsgikL4eeuF-Io8M8VNUDzmECaYYggjg7POepbp4lSoI38JwzI4T_k8oX3zybhwq6FHVGWXRO6Yc5r-8ZE5s9szweTrkKOR3nIb4gCZd5dybpKZD5eXrsgOJohcfq8D8u4s4nLXgp2Kw1EGnTxzKyIEyoIBO_J5E?purpose=fullsize
+16×2 I2C LCD display-https://images.openai.com/static-rsc-4/Xd254hLW0aMisz4__bJ6P91MsHnGg8pUR-LIfP-EKk6oUbigCHBnMvkGcV2mFGt0JCHGQ_tHUZsz6XQe2mh3wLQoBl0M09QH1c51u7pjMmgrtSqANfxNFKBwNEMHJasxaDU6CNglESoWtQva-wHe0jElD9Bv8SRI68fU5brEt2rpvn4o5bq2mq4v1mP38fGr?purpose=fullsize
+Push button-https://diotlabs.daraghbyrne.me/docs/getting-inputs/images/button/image_0.jpg
+Jumper wires-https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/4/0/40_pin_female_to_male_jumper_wire__79923.1571491579.jpg
+Breadboard-https://images.openai.com/static-rsc-4/nog_V-s_36BnfBIkJVIL4mv1aYFCN2uFZGS2TxPUIRlc_A2bOi492EIehlwhk-N5lEilE1sWe2Eg2YA9mWVwx29TlMeHlc539sVt92haSHC9_8nO2kAxEDcrK84h5-hzv7O5RYDCV82aTH3QYcoOa7VLNffvVJkYa4uxJNjfc8cxvCN3tTfJK_HBrBWLyjui?purpose=fullsize
+USB cable-https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2019/11/PhotoGrid2-2.jpg
+Connecting wires/components as needed
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
