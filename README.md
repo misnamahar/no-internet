@@ -72,15 +72,18 @@ Push button-https://diotlabs.daraghbyrne.me/docs/getting-inputs/images/button/im
 - USB cable-https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2019/11/PhotoGrid2-2.jpg
 Connecting wires/components as needed
 
-![Build](Add photos of build process here)
+blob:https://web.whatsapp.com/8cb83fcc-f22b-4577-bc46-bdcb93977720
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+blob:https://web.whatsapp.com/5d28a5a1-adeb-49b4-8b56-0f2e3ff35266
+*Explain the final build*
+
+blob:https://web.whatsapp.com/017209b8-6083-438f-96b7-429a775d84f5
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[[Add your demo video link here]](https://drive.google.com/file/d/12KK3J54fxHar0xZOqBbZlHARoGZiJosk/view?usp=sharing)
 *Explain what the video demonstrates*
 
 # Additional Demos
