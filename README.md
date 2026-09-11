@@ -38,10 +38,19 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+Install Arduino IDE.
+Connect the Arduino Uno to the computer.
+Install the LiquidCrystal_I2C library from the Arduino Library Manager.
+Open the .ino file.
+Select the correct Arduino board and COM port.
+Upload the code to the Arduino.
 
 # Run
-[commands]
+Power on the Arduino.
+The Dino game appears on the LCD.
+Press the push button to start.
+During the game, pressing the button makes the Dino move backward.
+Keep pressing it and watch the Dino go in completely the wrong direction. 😂
 
 ### Project Documentation
 For Software:
