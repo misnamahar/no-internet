@@ -73,18 +73,18 @@ Push button-https://diotlabs.daraghbyrne.me/docs/getting-inputs/images/button/im
 Connecting wires/components as needed
 
 blob:https://web.whatsapp.com/8cb83fcc-f22b-4577-bc46-bdcb93977720
-*Explain the build steps*
+*The basic hardware setup was constructed using an Arduino Uno, 16x2 I2C LCD, push button, breadboard and jumper wires. The components were connected according to the required circuit.*
 
 blob:https://web.whatsapp.com/5d28a5a1-adeb-49b4-8b56-0f2e3ff35266
-*Explain the final build*
+*After completing the connections, the Arduino was powered on and the LCD backlight was successfully turned on. This confirmed that the LCD was receiving power and the circuit connections were working.*
 
 blob:https://web.whatsapp.com/017209b8-6083-438f-96b7-429a775d84f5
-*Explain the final build*
+*The completed circuit was tested by starting the Dino game. The Dino and game elements are displayed on the LCD, and the push button is ready to control the game.*
 
 ### Project Demo
 # Video
 [[Add your demo video link here]](https://drive.google.com/file/d/12KK3J54fxHar0xZOqBbZlHARoGZiJosk/view?usp=sharing)
-*Explain what the video demonstrates*
+*The demo video shows the Useless Dino Game in action. When the push button is pressed, the Dino moves backward instead of jumping, making the game intentionally useless.*
 
 # Additional Demos
 [Add any extra demo materials/links]
