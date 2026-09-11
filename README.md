@@ -53,39 +53,23 @@ During the game, pressing the button makes the Dino move backward.
 Keep pressing it and watch the Dino go in completely the wrong direction. 😂
 
 ### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+!https://drive.google.com/file/d/1obIE4I91nzUYBP6anfX1bZVbNUxb56oc/view?usp=sharing
+*Arduino Uno is connected to the 16x2 I2C LCD and push button. The LCD displays the Dino, obstacles and score, while the push button controls the intentionally useless backward movement.*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+!https://chatgpt.com/backend-api/estuary/content?id=file_00000000bf20820d90fad0835a08cec7&ts=496977&p=fs&cid=1&sig=9e485ba9876aa793d584f91fc2857ccda36d9194db10fa3f85c8e3b937e6c299&v=0
+*Circuit schematic showing the connections between the Arduino Uno, I2C LCD and push button.*
 
 # Build Photos
 Components:
-Arduino board-https://images.openai.com/static-rsc-4/Ma9Ru0qeFCuOzQ_hLyu8OgKCg4l43slUxsgikL4eeuF-Io8M8VNUDzmECaYYggjg7POepbp4lSoI38JwzI4T_k8oX3zybhwq6FHVGWXRO6Yc5r-8ZE5s9szweTrkKOR3nIb4gCZd5dybpKZD5eXrsgOJohcfq8D8u4s4nLXgp2Kw1EGnTxzKyIEyoIBO_J5E?purpose=fullsize
-16×2 I2C LCD display-https://images.openai.com/static-rsc-4/Xd254hLW0aMisz4__bJ6P91MsHnGg8pUR-LIfP-EKk6oUbigCHBnMvkGcV2mFGt0JCHGQ_tHUZsz6XQe2mh3wLQoBl0M09QH1c51u7pjMmgrtSqANfxNFKBwNEMHJasxaDU6CNglESoWtQva-wHe0jElD9Bv8SRI68fU5brEt2rpvn4o5bq2mq4v1mP38fGr?purpose=fullsize
+- Arduino board-https://images.openai.com/static-rsc-4/Ma9Ru0qeFCuOzQ_hLyu8OgKCg4l43slUxsgikL4eeuF-Io8M8VNUDzmECaYYggjg7POepbp4lSoI38JwzI4T_k8oX3zybhwq6FHVGWXRO6Yc5r-8ZE5s9szweTrkKOR3nIb4gCZd5dybpKZD5eXrsgOJohcfq8D8u4s4nLXgp2Kw1EGnTxzKyIEyoIBO_J5E?purpose=fullsize
+- 16×2 I2C LCD display-https://images.openai.com/static-rsc-4/Xd254hLW0aMisz4__bJ6P91MsHnGg8pUR-LIfP-EKk6oUbigCHBnMvkGcV2mFGt0JCHGQ_tHUZsz6XQe2mh3wLQoBl0M09QH1c51u7pjMmgrtSqANfxNFKBwNEMHJasxaDU6CNglESoWtQva-wHe0jElD9Bv8SRI68fU5brEt2rpvn4o5bq2mq4v1mP38fGr?purpose=fullsize
 Push button-https://diotlabs.daraghbyrne.me/docs/getting-inputs/images/button/image_0.jpg
-Jumper wires-https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/4/0/40_pin_female_to_male_jumper_wire__79923.1571491579.jpg
-Breadboard-https://images.openai.com/static-rsc-4/nog_V-s_36BnfBIkJVIL4mv1aYFCN2uFZGS2TxPUIRlc_A2bOi492EIehlwhk-N5lEilE1sWe2Eg2YA9mWVwx29TlMeHlc539sVt92haSHC9_8nO2kAxEDcrK84h5-hzv7O5RYDCV82aTH3QYcoOa7VLNffvVJkYa4uxJNjfc8cxvCN3tTfJK_HBrBWLyjui?purpose=fullsize
-USB cable-https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2019/11/PhotoGrid2-2.jpg
+- Jumper wires-https://probots.co.in/pub/media/catalog/product/cache/d8ddd0f9b0cd008b57085cd218b48832/4/0/40_pin_female_to_male_jumper_wire__79923.1571491579.jpg
+-Breadboard-https://images.openai.com/static-rsc-4/nog_V-s_36BnfBIkJVIL4mv1aYFCN2uFZGS2TxPUIRlc_A2bOi492EIehlwhk-N5lEilE1sWe2Eg2YA9mWVwx29TlMeHlc539sVt92haSHC9_8nO2kAxEDcrK84h5-hzv7O5RYDCV82aTH3QYcoOa7VLNffvVJkYa4uxJNjfc8cxvCN3tTfJK_HBrBWLyjui?purpose=fullsize
+- USB cable-https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2019/11/PhotoGrid2-2.jpg
 Connecting wires/components as needed
 
 ![Build](Add photos of build process here)
@@ -103,9 +87,8 @@ Connecting wires/components as needed
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Naseeha Thasni: Arduino programming, game logic modification, LCD implementation and hardware integration.
+- Misna Mahar: Hardware wiring, testing, debugging, documentation and project presentation.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
