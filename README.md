@@ -10,9 +10,8 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Naseeha Thasni - Korambayil Ahamed Haji Memorial Unity Women's College (Autonomous), Manjeri
+- Member 2: Misna Mahar -Korambayil Ahamed Haji Memorial Unity Women's College (Autonomous), Manjeri
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -26,16 +25,17 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- Language: C/C++ (Arduino)
+- Library: LiquidCrystal_I2C
+- Library: Wire
+IDE: Arduino IDE
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+-Arduino Uno
+- 16x2 I2C LCD Display
+- Push Button
+- Jumper Wires
+- Breadboard
+- USB Cable
 ### Implementation
 For Software:
 # Installation
